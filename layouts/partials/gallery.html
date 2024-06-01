@@ -1,0 +1,20 @@
+{{- $gallery   := .Site.Params.gallery }}
+{{- $title      := index $gallery "title" }}
+{{- $subtitle   := index $gallery "subtitle" }}
+{{- $images      := index $gallery "images" }}
+
+
+<section class="section is-medium">
+  <div class="container">
+    <h2 class="title">{{ $title }}</h2>
+    <h3 class="subtitle">{{ $subtitle }}</h3>
+    <div class="divider"></div>
+    <div class="grid grid-small mt-60">
+      {{- range $index, $image := $images }}
+        <div class="cell">
+          <img src="{{ printf "images/%s" $image.image | relURL }}" alt="Image {{ $index }}" />
+        </div>
+      {{- end }}
+    </div>
+  </div>
+</section>

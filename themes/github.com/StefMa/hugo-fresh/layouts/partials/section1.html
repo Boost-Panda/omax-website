@@ -1,0 +1,42 @@
+{{- $section1 := .Site.Params.section1 }}
+{{- $title    := index $section1 "title" }}
+{{- $subtitle := index $section1 "subtitle" }}
+{{- $tiles    := index $section1 "tiles" }}
+
+
+<section class="section section-feature-grey is-medium" id="section1">
+  <div class="container">
+    <div class="title-wrapper has-text-centered">
+      <h2 class="title is-2">{{ $title }}</h2>
+      <div class="divider is-centered"></div>
+    </div>
+
+    <div class="content-wrapper">
+      <div class="columns">
+        {{- range $tiles }}
+          <div class="column is-one-third">
+            <div class="card small" data-animation="fadeInLeft">
+              <div class="card-image">
+                <figure class="image">
+                  <img src="{{ printf "images/%s" .image | relURL }}" />
+                </figure>
+              </div>
+              <div class="card-content">
+                <div class="content">
+                  <h3>{{ .title }}</h3>
+                  <p>{{ .text }}</p>
+                </div>
+              </div>
+              <div class="card-footer">
+                <a href="{{ .url }}" class="card-footer-item">{{ .buttonText }}</a>
+              </div>
+            </div>
+          </div>
+        {{- end }}
+      </div>
+      <div class="title-wrapper has-text-centered mt-6">
+        <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3>
+      </div>
+    </div>
+  </div>
+</section>

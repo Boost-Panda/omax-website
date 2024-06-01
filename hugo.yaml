@@ -1,0 +1,410 @@
+baseURL: http://something-fresh.org/
+languageCode: en-us
+title: Associated Oral & Maxillofacial Surgeons
+
+module:
+  # uncomment line below for local development of module
+  # workspace: hugo.work
+  imports:
+    - path: github.com/StefMa/hugo-fresh
+
+# googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
+# Disables warnings
+disableKinds:
+  - taxonomy
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  description:
+  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
+  # preloader: false
+  navbarlogo:
+    # Logo (from static/images/logos/___)
+    image: logos/omax.webp
+    link: /
+    # Default width/height. Uncomment if you need to change
+    width: auto
+    # height: 28
+  font:
+    name: "Open Sans"
+    sizes: [400, 600]
+  hero:
+    # Main hero title
+    title: Experience the Artistry of Oral & Maxillofacial Excellence.
+    # Hero subtitle (optional)
+    subtitle: Welcome to Associated Oral & Maxillofacial Surgeons
+    # Button text
+    buttontext: Request an Appointment
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from static/images/___)
+    image: illustrations/aliirz_a_digital_illustration_perfect_for_a_dental_clinics_prom_2f605d9d-fbb8-4a0a-802f-af0e03aa3229 (1).webp
+    # Footer logos (from static/images/logos/clients/*.svg)
+    # urls are optional
+    clientlogos:
+      - logo: hos-frederick.webp
+        url: https://www.frederickhealth.org/
+      - logo: org-aaoms.webp
+        url: https://www.aaoms.org/
+      - logo: org-aboms.webp
+        url: https://www.aboms.org/
+      - logo: org-ada-compliant.webp
+        url: https://www.ada.gov/
+      - logo: org-ada.webp
+        url: https://www.ada.org/
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+    - title: Home
+      url: /
+    - title: About
+      sublinks:
+        - title: Dr. Nelson
+          url: /about/dr-nelson
+        - title: Dr. Chaudhary
+          url: /about/dr-chaudhary
+        - title: Dr. Haddad
+          url: /about/dr-haddad
+        - title: Meet our Staff
+          url: /about/meet-our-staff
+    - title: Services
+      sublinks:
+        - title: Oral Surgery
+          url: /
+          # sublinks:
+          #   - title: Wisdom Tooth Removal
+          #     url: /
+          #   - title: Apicoectomy
+          #     url: /
+          #   - title: Facial Fractures
+        - title: Dental Implants and Bone Grafts
+          url: /
+        - title: Pediatric Oral Surgery
+          url: /
+        - title: Leisons & Cancer of the Mouth
+          url: /
+        - title: Sedation Dentistry
+          url: /
+        - title: Dental Implants
+          url: /
+        - title: Facial Trauma
+          url: /
+        - title: Full Mouth Reconstruction
+          url: /
+        - title: Single Implants
+          url: /
+        - title: Multiple Dental Implants
+          url: /
+        - title: Tongue Tie
+          url: /
+        - title: Lip Tie
+          url: /
+    - title: Patient Resources
+      sublinks:
+        - title: Patient Registration
+          url: /patient-resources/patient-registration
+        - title: CareCredit
+          url: https://www.carecredit.com/
+          external: true
+        - title: Surgical Instructions
+          url: /
+    - title: Patient Information
+      sublinks:
+        - title: Introduction
+          url: /
+        - title: New Patient Info
+          url: /
+        - title: Insurance
+          url: /
+        - title: Financial Policy
+          url: /
+        - title: Privacy Policy Info
+          url: /
+        - title: Educational Video
+          url: /
+        - title: Read our Google Reviews
+          url: /
+    - title: Referral Forms
+      url: /
+    - title: Contact
+      sublinks:
+        - title: Frederick Office Map
+          url: /
+        - title: Hagerstown Office Map
+          url: /
+        - title: Martinsburg Office Map
+          url: /
+        - title: Reviews
+          url: /
+        - title: Contact Info
+          url: /
+    - title: Appointment
+      url: /
+      button: true
+  # sidebar:
+  #   # Logo (from static/images/logos/___.svg)
+  #   logo: fresh-square
+  #   sections:
+  #     - title: User
+  #       icon: user
+  #       links:
+  #         - text: Profile
+  #           url: /
+  #         - text: Account
+  #           url: /
+  #         - text: Settings
+  #           url: /
+  #     - title: Messages
+  #       icon: envelope
+  #       links:
+  #         - text: Inbox
+  #           url: /
+  #         - text: Compose
+  #           url: /
+  #     - title: Images
+  #       icon: image
+  #       links:
+  #         - text: Library
+  #           url: /
+  #         - text: Upload
+  #           url: /
+  #     - title: Settings
+  #       icon: cog
+  #       links:
+  #         - text: User settings
+  #           url: /
+  #         - text: App settings
+  #           url: /
+  section1:
+    title: Meet our Doctors
+    subtitle: We are thrilled to have the opportunity to serve all the residents of the quad-state area, delivering unparalleled oral surgery care. Our commitment lies in providing you with nothing but the best experience possible, utilizing cutting-edge technology and groundbreaking research findings. At Associated Oral & Maxillofacial Surgeons, your well-being is truly our top priority.
+    tiles:
+      - title: Nahla Chaudhary
+        image: site-images/dr-chaudhary.webp
+        text: DDS
+        buttonText: See Profile
+        url: /about/dr-chaudhary
+      - title: Howard L. Nelson
+        image: site-images/dr-nelson.webp
+        text: DDS
+        buttonText: See Profile
+        url: /about/dr-nelson
+      - title: Jay I. Haddad
+        image: site-images/dr-haddad.webp
+        text: DDS
+        buttonText: See Profile
+        url: /about/dr-haddad
+  section2:
+    title: You're here because you want the best
+    subtitle: And we know it
+    features:
+      - title: Dental Impants and Bone Grafts
+        text: Dental implants provide a reliable foundation for replacement teeth. These artificial roots, made of titanium, are surgically inserted into the jawbone. Over time, they integrate with your bone, offering a stable base for long-lasting dental restorations.
+        image: site-images/services/3.webp
+      - title: Wisdom Tooth Removal
+        text: Wisdom teeth, or third molars, are the last to emerge, usually between the ages of 17 and 25. Our clinic offers wisdom teeth removal to address pain, crowding, and other issues that these teeth might cause as they develop.
+        image: site-images/services/2.webp
+      - title: Oral Surgery
+        text: This specialized branch of dentistry addresses conditions affecting the mouth, face, jaw, and neck. Our treatments range from corrective surgeries to aesthetic enhancements, focusing on restoring health and function.
+        image: site-images/services/6.jpg
+      - title: Pediatric Oral Surgery
+        text: Our pediatric oral surgery services cater to the unique needs of children, from routine extractions to complex surgeries. We focus on providing a safe and gentle experience for our young patients.
+        image: site-images/services/1.webp
+      - title: Lesions & Cancer Of The Mouth
+        text: We diagnose and treat various conditions affecting the oral cavity, including benign lesions and oral cancer. Our approach is comprehensive, aiming to ensure the health and well-being of each patient.
+        image: site-images/services/5.jpg
+      - title: Facial Fractures
+        text: Facial fractures can affect the jaw, cheekbones, nose, and eye sockets. Our clinic specializes in repairing these injuries, restoring facial structure and function after accidents or trauma.
+        image: site-images/services/4.jpg
+  insuranceSection:
+    title: FINANCING YOUR CARE
+    subtitle: At Associated Oral & Maxillofacial Surgeons, we make every effort to provide you with the finest care and the most convenient financial options. To accomplish this, we work hand-in-hand with you to maximize your insurance reimbursement for covered procedures.
+    buttonText: Call Us
+    buttonLink: "tel:3042630991"
+  gallery:
+    title: Our Office
+    subtitle: Take a look around
+    images:
+      - image: site-images/gallery/838e4cbaacc76d4d76b3960a41b0b435.jpg
+      - image: site-images/gallery/Image-8.webp
+      - image: site-images/gallery/office-tour-1.webp
+      - image: site-images/gallery/office-tour-5.webp
+      - image: site-images/gallery/office-tour-6.webp
+      - image: site-images/gallery/office-tour-8.webp
+  section4:
+    title: Hear It from Our Happy Patients
+    subtitle: Discover why our patients trust us with their smiles, time and again.
+    clients:
+      - name: Fury G.
+        quote: Dr. Nelson removed wisdom teeth for my two sons with care and efficiency. As a minority, I especially appreciated the respect and consideration given to our mixed family.
+        img: 1
+        date: Feb 2024
+      - name: Destiny S.
+        quote: Smooth and quick wisdom teeth removal with minimal pain, in a very comfortable setting.
+        img: 2
+        date: Apr 2024
+      - name: Brittany
+        quote: Referred for an infected tooth, I experienced immediate relief and exceptional care despite my severe anxiety.
+        img: 3
+        date: Mar 2024
+      - name: Bryan M.
+        quote: Had a tooth extraction without general anesthesia; it was painless and smooth. Highly recommend.
+        image: 3
+        date: Apr 2024
+      - name: Zoe B.
+        quote: Even as someone who's terrified of dental work, Dr. Nelson's team provided a painless, fear-free experience. Absolutely the best dental visit I've had.
+        img: 2
+        date: Apr 2024
+
+  locations:
+    title: Accessible Care at Three Convenient Locations
+    locations:
+      - name: Frederick, MD
+        link: https://maps.app.goo.gl/zfp3NH197sCpdMom8
+        map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d195943.46331401714!2d-77.70622200181576!3d39.40349086208583!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9dac27c777ff1%3A0x9dfdb7812d1ffaa1!2sAssociated%20Oral%20%26%20Maxillofacial%20Surgeons!5e0!3m2!1sen!2s!4v1717250025491!5m2!1sen!2s
+        address: 6550 Mercantile Drive E Suite 101, Frederick, MD 21703
+        phone: (301) 694-0870
+        email: frederickxrays@omaxdocs.com
+        timings:
+          - day: Monday
+            time: 7:00 AM - 3:00 PM
+          - day: Tuesday
+            time: 7:30 AM - 4:00 PM
+          - day: Wednesday
+            time: 7:00 AM - 3:00 PM
+          - day: Thursday
+            time: 7:30 AM - 4:00 PM
+          - day: Friday
+            time: By appointment only
+          - day: Saturday
+            time: Closed
+          - day: Sunday
+            time: Closed
+        contact: /contact
+        book: /contact
+      - name: Hagerstown, MD
+        link: https://maps.app.goo.gl/kdQNTxY2Ry9w4wHaA
+        map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d97999.0299669069!2d-77.87457549332146!3d39.62490734758505!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9ecde818ba425%3A0x46a2db07a9ba5821!2sAssociated%20Oral%20%26%20Maxillofacial%20Surgeons!5e0!3m2!1sen!2s!4v1717250395008!5m2!1sen!2s
+        address: 1144 Opal Court, Hagerstown, MD 21740
+        phone: (301) 733-2500
+        email: hagerstownxrays@omaxdocs.com
+        timings:
+          - day: Monday
+            time: 7:00 AM - 4:00 PM
+          - day: Tuesday
+            time: 7:00 AM - 3:00 PM
+          - day: Wednesday
+            time: Closed
+          - day: Thursday
+            time: 7:00 AM - 4:00 PM
+          - day: Friday
+            time: 7:00 AM - 1:00 PM
+          - day: Saturday
+            time: Closed
+          - day: Sunday
+            time: Closed
+        contact: /contact
+        book: /contact
+      - name: Martinsburg, WV
+        link: https://maps.app.goo.gl/tonQLWxhiScnff8HA
+        map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d97999.0299669069!2d-77.87457549332146!3d39.62490734758505!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9ecde818ba425%3A0x46a2db07a9ba5821!2sAssociated%20Oral%20%26%20Maxillofacial%20Surgeons!5e0!3m2!1sen!2s!4v1717250395008!5m2!1sen!2s
+        address: 1007 Sushruta Dr, Martinsburg, WV 25401
+        phone: (304) 263-0991
+        email: xraywv@omaxdocs.com
+        timings:
+          - day: Monday
+            time: By appointment only
+          - day: Tuesday
+            time: 7:00 AM - 3:00 PM
+          - day: Wednesday
+            time: 7:00 AM - 3:00 PM
+          - day: Thursday
+            time: 7:00 AM - 4:00 PM
+          - day: Friday
+            time: 7:00 AM - 1:00 PM
+          - day: Saturday
+            time: Closed
+          - day: Sunday
+            time: Closed
+        contact: /contact
+        book: /contact
+
+  # section5:
+  #   title: Drop us a line or two
+  #   subtitle: We'd love to hear from you
+  #   buttonText: Send Message
+  #   # action: https://formspree.io/f/<form_id>
+  #   # method: POST
+  footer:
+    # Logo (from static/images/logos/___)
+    logo: omax.webp
+    # Social Media Title
+    # socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    # socialmedia:
+    #   - link: https://github.com/StefMa
+    #     # Icons are from Font Awesome
+    #     icon: github
+    #   - link: https://dribbble.com/#
+    #     icon: dribbble
+    #   - link: https://facebook.com/#
+    #     icon: facebook
+    #   - link: https://twitter.com/StefMa91
+    #     icon: twitter
+    #   - link: https://bitbucket.org/#
+    #     icon: bitbucket
+    bulmalogo: false
+    quicklinks:
+      column1:
+        title: "Links"
+        links:
+          - text: Copyright © 2024 Associated Oral & Maxillofacial Surgeons
+            link: /
+          - text: Privacy Policy
+            link: /privacy-policy
+          - text: Terms and Conditions
+            link: /terms-and-conditions
+          - text: Accessibility Statement
+            link: /accessibility-statement
+    locations:
+      - name: Frederick, MD
+        address: 6550 Mercantile Drive E Suite 101, Frederick, MD 21703
+        phone: (301) 694-0870
+        email: frederickxrays@omaxdocs.com
+        link: /contact
+        map: https://maps.app.goo.gl/zfp3NH197sCpdMom8
+      - name: Hagerstown, MD
+        address: 1144 Opal Court, Hagerstown, MD 21740
+        phone: (301) 733-2500
+        email: hagerstownxrays@omaxdocs.com
+        link: /contact
+        map: https://maps.app.goo.gl/kdQNTxY2Ry9w4wHaA
+      - name: Martinsburg, WV
+        address: 1007 Sushruta Dr, Martinsburg, WV 25401
+        phone: (304) 263-0991
+        email: xraywv@omaxdocs.com
+        link: /contact
+        map: https://maps.app.goo.gl/tonQLWxhiScnff8HA
+      # column2:
+      #   title: "Docs"
+      #   links:
+      #     - text: Get started
+      #       link: /
+      #     - text: User guides
+      #       link: /
+      #     - text: Admin guide
+      #       link: /
+      #     - text: Developers
+      #       link: /
+      # column3:
+      #   title: "Blog"
+      #   links:
+      #     - text: Latest news
+      #       link: /blog/first
+      #     - text: Tech articles
+      #       link: /blog/second

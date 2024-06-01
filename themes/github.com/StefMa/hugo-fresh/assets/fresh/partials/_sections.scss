@@ -1,0 +1,110 @@
+/* ==========================================================================
+Section Styles
+========================================================================== */
+
+$section-padding-medium: 6rem 4rem;
+
+//Sections
+.section {
+  &.section-light-grey {
+    background-color: $light-grey;
+  }
+  &.section-feature-grey {
+    background-color: $section-grey;
+  }
+  &.section-secondary {
+    background-color: $secondary;
+  }
+  &.section-half {
+    height: 75vh !important;
+  }
+  .title,
+  .subtitle {
+    font-family: "Open Sans", sans-serif;
+  }
+  .subtitle {
+    &.is-muted {
+      color: $muted-grey;
+    }
+  }
+
+  @include desktop {
+    &.is-medium {
+      padding: $section-padding-medium;
+    }
+  }
+}
+
+//Titles
+.title-wrapper {
+  max-width: 500px;
+  margin: 0 auto;
+  .title,
+  .subtitle {
+    font-family: "Open Sans", sans-serif;
+  }
+  .subtitle {
+    &.is-muted {
+      color: $muted-grey;
+    }
+  }
+}
+
+#section1 {
+  .title-wrapper {
+    max-width: 1000px;
+  }
+}
+
+//Divider
+.divider {
+  height: 3px;
+  border-radius: 50px;
+  background: $secondary;
+  width: 60px;
+  &.is-centered {
+    margin: 0 auto;
+  }
+}
+
+//Wrapper
+.content-wrapper {
+  padding: 60px 0;
+}
+
+//Pulled image
+img.pushed-image {
+  margin-top: -5vh;
+}
+
+//Icon box
+.media.icon-box {
+  border-top: none !important;
+  .media-content .content p {
+    span {
+      display: block;
+    }
+    .icon-box-title {
+      color: $blue-grey;
+      font-size: 1.2rem;
+      font-weight: 600;
+    }
+    .icon-box-text {
+      color: $title-grey;
+      font-size: 1rem;
+      font-weight: 400;
+    }
+  }
+}
+
+.services-image {
+  .services-image-inner {
+    height: 14rem;
+    width: 14rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}

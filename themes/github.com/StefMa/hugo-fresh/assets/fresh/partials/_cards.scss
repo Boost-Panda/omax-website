@@ -1,0 +1,146 @@
+/*! _cards.scss v1.0.0 | Commercial License | built on top of bulma.io/Bulmax */
+
+/* ==========================================================================
+Cards and Card content styles
+========================================================================== */
+
+// Feature Card
+.feature-card {
+  width: 300px;
+  // height: 320px;
+  background-color: #fff;
+  border-radius: 3px;
+  margin: 0 auto;
+  padding: 0 1.5rem 2rem 1.5rem;
+  .card-title h4 {
+    font-family: "Open Sans", sans-serif;
+    padding-top: 25px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: $blue-grey;
+  }
+  .card-icon img {
+    height: 120px;
+    margin-top: 20px;
+  }
+  .card-icon.custom-image .custom-image-inner {
+    height: 18rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .card-text {
+    padding: 0 40px;
+    p {
+      color: $muted-grey;
+    }
+  }
+  .card-action {
+    margin-top: 10px;
+  }
+  &.is-bordered {
+    border: 1px solid $fade-grey;
+  }
+}
+
+// Flex Card
+.flex-card {
+  position: relative;
+  background-color: #fff;
+  border: 0;
+  border-radius: 0.1875rem;
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 20px;
+  &.raised {
+    box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
+  }
+  .tabs {
+    padding: 15px 0.7rem;
+  }
+  .navtab-content {
+    min-height: 190px;
+    p {
+      padding: 0 0.8rem 20px;
+    }
+  }
+  .navigation-tabs {
+    &.outlined-pills .tabs.tabs-header {
+      &.primary {
+        background-color: $primary;
+      }
+      &.secondary {
+        background-color: $secondary;
+      }
+      &.accent {
+        background-color: $accent;
+      }
+      ul li a {
+        color: $grey-white;
+      }
+      ul li.is-active a {
+        color: $white;
+        border: 1px solid $white;
+        border-bottom-color: $white !important;
+      }
+    }
+  }
+}
+
+.card {
+  border-radius: 1rem;
+  .image {
+    img {
+      width: 100%;
+      height: 20rem;
+      object-fit: cover;
+      border-radius: 1rem 1rem 0 0;
+    }
+
+    iframe {
+      border-radius: 0.8rem 0.8rem 0 0;
+    }
+  }
+  .card-content {
+    .content {
+      font-size: var(--font-size);
+      line-height: var(--line-height);
+
+      .address {
+        min-height: calc(var(--font-size) * var(--line-height) * 3);
+      }
+    }
+    min-height: calc(var(--font-size) * var(--line-height) * 10);
+  }
+
+  .card-footer {
+    .cta {
+      background-color: $brand-primary;
+      color: $white;
+      border-radius: 0 0 1rem 0;
+    }
+  }
+
+  &.small {
+    max-width: 22rem;
+    .card-content {
+      .content {
+        .address {
+          min-height: calc(var(--font-size) * var(--line-height) * 2);
+        }
+      }
+      min-height: auto;
+    }
+  }
+}
+
+.locations-container {
+  .content p:not(:last-child) {
+    margin-bottom: 0.5rem;
+  }
+}

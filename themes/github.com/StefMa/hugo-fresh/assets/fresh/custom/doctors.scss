@@ -1,0 +1,27 @@
+.doctors-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+
+  img {
+    width: 100%;
+    max-width: 25rem;
+    padding-right: 1rem;
+  }
+}
+
+// media queries
+
+@media (max-width: 768px) {
+  .doctors-container {
+    flex-direction: column;
+    align-items: center;
+
+    img {
+      padding-right: 0;
+      height: 35vh;
+      width: auto;
+      margin-bottom: 1rem;
+    }
+  }
+}
