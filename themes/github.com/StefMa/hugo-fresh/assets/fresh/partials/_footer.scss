@@ -2,43 +2,55 @@
 Fresh Footer
 ========================================================================== */
 
-footer.footer-dark {
+footer.footer {
+  padding: 1rem;
+  .columns {
+    margin-top: 35px;
+  }
+  .footer-logo {
+    img {
+      height: auto;
+      width: 100%;
+    }
+  }
+  .footer-column {
+    .footer-header h3 {
+      font-weight: 500;
+      font-size: 1.2rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 20px;
+    }
+    ul.link-list {
+      line-height: 40px;
+      font-size: 1.1rem;
+      a {
+        font-weight: 400;
+        transition: all 0.5s;
+      }
+    }
+  }
+
+  &.footer-dark {
     background: $blue-grey;
     color: $white;
-    .columns {
-        margin-top: 35px;
-    }
-    .footer-logo {
-        img {
-            height: 40px;
-        }
-    }
+
     .footer-column {
-        .footer-header h3 {
-            font-weight:500;
-            font-size: 1.2rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-bottom: 20px;
+      ul.link-list {
+        a {
+          color: $light-blue-grey;
         }
-        ul.link-list {
-            line-height: 40px;
-            font-size: 1.1rem;
-            a {
-                color: $light-blue-grey;
-                font-weight: 400;
-                transition: all 0.5s;
-            }
-            :hover {
-                color: $smoke-white;
-            }
+        :hover {
+          color: $smoke-white;
         }
-        .level-item .icon {
-            color: $secondary;
-            transition: all 0.5s;
-            :hover {
-                color: $smoke-white;
-            }
+      }
+      .level-item .icon {
+        color: $secondary;
+        transition: all 0.5s;
+        :hover {
+          color: $smoke-white;
         }
+      }
     }
+  }
 }

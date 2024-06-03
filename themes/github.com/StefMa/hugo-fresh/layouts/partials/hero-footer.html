@@ -4,16 +4,14 @@
 
 <div class="hero-foot mb-20">
   <div class="container">
-    <div class="tabs is-centered">
-      <ul>
-        {{- range $clientLogos }}
-          <li>
-            <a {{ if .url }}href="{{ .url }}"{{ end }} target="_blank">
-              <img class="partner-logo" src="{{ printf "images/logos/certificates/%s" .logo | relURL }}" />
-            </a>
-          </li>
-        {{- end }}
-      </ul>
+    <div class="grid grid-tiny is-centered">
+      {{- range $clientLogos }}
+        <div class="cell">
+          <a {{ if .url }}href="{{ .url }}"{{ end }} target="_blank">
+            <img class="partner-logo" src="{{ printf "images/logos/certificates/%s" .logo | relURL }}" />
+          </a>
+        </div>
+      {{- end }}
     </div>
   </div>
 </div>

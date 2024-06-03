@@ -10,6 +10,8 @@ You may preregister with our office by utilizing the convenience of our secure o
 
 Rest assured that upon your first visit to our office, we will already have your completed form readily available for your signature, saving you valuable time and effort. At our practice, we prioritize protecting the security and privacy of every patient's personal data as if it were our own. Hence, we have implemented stringent measures to ensure its complete confidentiality.
 
-{{< button URL="https://forms.growthplug.com/c/twhk1x/8eRqN9" Text="Frederick Office" >}}&nbsp;&nbsp;&nbsp;&nbsp;
-{{< button URL="https://forms.growthplug.com/c/twhk1x/oPbDBR" Text="Hagerstown Office" >}}&nbsp;&nbsp;&nbsp;&nbsp;
-{{< button URL="https://forms.growthplug.com/c/twhk1x/ZeKJOl" Text="Martinsburg Office" >}}
+{{< button URL="https://forms.growthplug.com/c/twhk1x/8eRqN9" Target="_blank" Text="Frederick Office" >}}&nbsp;&nbsp;&nbsp;&nbsp;
+{{< button URL="https://forms.growthplug.com/c/twhk1x/oPbDBR" Target="_blank" Text="Hagerstown Office" >}}&nbsp;&nbsp;&nbsp;&nbsp;
+{{< button URL="https://forms.growthplug.com/c/twhk1x/ZeKJOl" Target="_blank" Text="Martinsburg Office" >}}
+
+If you have any questions or concerns, please do not hesitate to contact us at any of our three locations. We are more than happy to assist you in any way possible.

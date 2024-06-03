@@ -8,11 +8,116 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>3-D Imaging</title>
+      <link>http://localhost:1313/services/3d-imaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/3d-imaging/</guid>
+      <description>Dental cone beam CT, also known as CBCT, is a specialized imaging technique that provides highly detailed 3D images of the oral and maxillofacial structures. Unlike traditional dental X-rays, which capture only two-dimensional views, CBCT offers a comprehensive view of the teeth, jawbone, and surrounding tissues.&#xA;Using a cone-shaped X-ray beam that rotates around the patient&amp;rsquo;s head, CBCT captures multiple cross-sectional images. These images are then reconstructed by powerful software to create a three-dimensional representation of the oral anatomy.</description>
+    </item>
+    <item>
+      <title>About Our Practice</title>
+      <link>http://localhost:1313/information/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/introduction/</guid>
+      <description>Welcome to our dental practice, where we specialize in oral and maxillofacial surgery. At Associated Oral and Maxillofacial Surgeons, we pride ourselves on providing exceptional care that goes beyond the ordinary. Our team of highly skilled doctors has undergone extensive training in hospital-based surgical and anesthesia procedures, ensuring that you receive the highest level of expertise available. With a full scope of services ranging from dental implant surgery to wisdom tooth removal, we are equipped to handle any issue relating to the mouth, teeth, and facial regions.</description>
+    </item>
+    <item>
+      <title>Apicoectomy</title>
+      <link>http://localhost:1313/services/apicoectomy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/apicoectomy/</guid>
+      <description>Apicoectomy, also known as root-end surgery, is a dental procedure that involves removing the tip of the tooth&amp;rsquo;s root and surrounding infected tissue. It is typically performed when a conventional root canal treatment fails to alleviate the infection or when there are complications in reaching the tip of the root through traditional methods.&#xA;When Is an Apicoectomy Recommended? One common reason for recommending an apicoectomy is when there is persistent pain and swelling around the affected tooth despite previous attempts at treatment.</description>
+    </item>
+    <item>
+      <title>Bone Grafting</title>
+      <link>http://localhost:1313/services/bone-grafting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/bone-grafting/</guid>
+      <description>Bone grafting is a dental procedure that involves replacing or augmenting missing bone in the jaw. Bone loss can occur as a result of tooth extraction or periodontal disease. When teeth are removed, the surrounding bone can deteriorate over time. This can lead to problems with neighboring teeth and compromise the overall structure and stability of the jawbone.&#xA;If you&amp;rsquo;re considering dental implants to replace missing teeth, having sufficient bone density is crucial for successful implantation.</description>
+    </item>
+    <item>
+      <title>Canine Exposure</title>
+      <link>http://localhost:1313/services/canine-exposure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/canine-exposure/</guid>
+      <description>Canine exposure is a crucial dental procedure that aims to guide unerupted canines into their correct positions in the dental arch. By working with our skilled surgeons at Associated Oral &amp;amp; Maxillofacial Surgeons, patients experiencing issues with these teeth can find relief and improve their oral health.&#xA;Common Issues With Unerupted Canines Unerupted canines, also known as impacted canines, occur when these crucial teeth fail to emerge properly from the gum line.</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/contact-info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/contact-info/</guid>
+      <description> Drop us a line or two We&amp;#39;d love to hear from you Send Message </description>
+    </item>
+    <item>
+      <title>Dental Implants</title>
+      <link>http://localhost:1313/services/dental-implants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/dental-implants/</guid>
+      <description>Dental implants are advanced restorative solutions that replace missing teeth by surgically implanting biocompatible titanium posts into the jawbone, serving as artificial tooth roots. These implants provide a stable foundation for various prosthetic restorations, such as crowns, bridges, or dentures, restoring both functionality and aesthetics to the smile. With benefits including improved chewing ability, jawbone structure preservation, shifting teeth prevention, and long-term durability, dental implants offer a permanent and natural-looking solution for individuals seeking to regain confidence and oral health following tooth loss.</description>
+    </item>
+    <item>
+      <title>Facial Fractures</title>
+      <link>http://localhost:1313/services/facial-fractures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/facial-fractures/</guid>
+      <description>A facial fracture is a break or crack in the bones of the face. The human face is composed of multiple interconnected bones, including the jawbone (mandible), cheekbones (zygomatic bone), nose, and eye sockets (orbital bones). These delicate structures are susceptible to injury due to various factors such as accidents, falls, sports-related incidents, or physical altercations.&#xA;The severity and location of facial fractures can vary greatly depending on the force and angle of impact.</description>
+    </item>
+    <item>
+      <title>Facial Trauma</title>
+      <link>http://localhost:1313/services/facial-trauma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/facial-trauma/</guid>
+      <description>Facial trauma in dentistry refers to injuries sustained to the face, jaws, and oral structures due to various incidents like accidents, falls, sports injuries, or assaults. These injuries can include fractures, dislocations, soft tissue lacerations, and damage to teeth and surrounding tissues. Prompt treatment of facial trauma in dentistry is crucial for several reasons. It helps to alleviate pain, prevent infection, and minimize the risk of long-term complications such as tooth loss, malocclusion, and temporomandibular joint (TMJ) disorders.</description>
+    </item>
+    <item>
+      <title>Financial Policy</title>
+      <link>http://localhost:1313/information/financial-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/financial-policy/</guid>
+      <description>For your convenience, we accept Visa, MasterCard, Discover, and American Express as forms of payment. Our utmost priority is to provide the finest care to our patients while ensuring that costs remain reasonable. To facilitate a seamless experience for all parties involved, we kindly request payment at the time services are rendered unless prior arrangements have been made.&#xA;We understand that financial matters can occasionally be complex or lead to misunderstandings.</description>
+    </item>
+    <item>
+      <title>Financing Your Care</title>
+      <link>http://localhost:1313/information/insurance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/insurance/</guid>
+      <description>At Associated Oral &amp;amp; Maxillofacial Surgeons, we understand the importance of addressing your insurance needs with utmost care and efficiency. We recognize that navigating through insurance policies can often be a complex process, which is why our dedicated team works alongside you to ensure maximal reimbursement for covered procedures.&#xA;Our staff members are well-trained and constantly updated on the latest developments in insurance regulations and requirements. Therefore, if you encounter any issues or have any questions during this process, please do not hesitate to reach out to us; we are here to assist you every step of the way.</description>
+    </item>
+    <item>
+      <title>Frenectomy</title>
+      <link>http://localhost:1313/services/frenectomy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/frenectomy/</guid>
+      <description>The frenum, a crucial component of the oral cavity, can be described as a delicate mucus membrane fold that functions to connect either the lip to the gums or the tongue to the floor of the mouth. This specialized membrane primarily consists of connective tissue fibers and lacks any muscle fibers.&#xA;The presence of these connective tissue fibers facilitates proper attachment between different parts of our mouth while ensuring stability and flexibility during various oral movements such as speaking, eating, and swallowing.</description>
+    </item>
+    <item>
+      <title>Full Mouth Reconstruction</title>
+      <link>http://localhost:1313/services/full-mouth-reconstruction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/full-mouth-reconstruction/</guid>
+      <description>Full mouth reconstruction involves comprehensive dental treatments to rebuild and restore all teeth in the upper and lower jaws. This extensive process can include a combination of procedures such as crowns, bridges, veneers, dental implants, and orthodontics to address functional issues like bite alignment and oral health problems such as tooth decay and gum disease. The benefits of full mouth reconstruction are substantial, offering improved oral function, enhanced aesthetics, and significant relief from pain or discomfort caused by damaged or missing teeth.</description>
+    </item>
+    <item>
       <title>Howard L. Nelson, DDS</title>
       <link>http://localhost:1313/about/dr-nelson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/dr-nelson/</guid>
       <description>Dr. Nelson was born and raised in Santa Cruz, Jamaica, and completed his undergraduate education at the University of the West Indies in Mona, Kingston, Jamaica. He then attended Howard University College of Dentistry in Washington, D.C., where he was inducted into the National Dental Honor Society Omicron Kappa Upsilon.&#xA;Upon graduation from dental school, Dr. Nelson completed his oral and maxillofacial surgery training at Howard University Hospital and its affiliates.</description>
+    </item>
+    <item>
+      <title>Immediate Implant Placement</title>
+      <link>http://localhost:1313/services/immediate-implant-placement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/immediate-implant-placement/</guid>
+      <description>Immediate implant placement (IIP) in Frederick, Hagerstown, and Martinsburg is a modern dental technique that involves placing a dental implant into the jawbone immediately after tooth extraction. This means that instead of waiting for weeks or months to heal before receiving an implant, patients can have the implant placed right away.&#xA;Immediate implant placement offers several advantages over traditional implant techniques, allowing patients to regain their smiles faster and more efficiently while maintaining optimal oral health.</description>
+    </item>
+    <item>
+      <title>Implant-Supported Dentures</title>
+      <link>http://localhost:1313/services/implant-supported-dentures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/implant-supported-dentures/</guid>
+      <description>Implant-supported dentures, also known as implant-retained dentures or overdentures, are a modern dental solution designed to provide stability and functionality for individuals who have lost most or all of their natural teeth. Unlike traditional removable dentures that rely on suction or adhesive for support, implant-supported dentures are anchored securely in place by dental implants.&#xA;Dental implants are titanium posts that are surgically placed into the jawbone beneath the gums. These posts act as artificial tooth roots, providing a strong foundation for attaching the denture prosthetic.</description>
     </item>
     <item>
       <title>Jay I. Haddad, DDS</title>
@@ -22,11 +127,25 @@
       <description>Dr. Haddad graduated in 1987 from the University of Texas Health Science Center Dental Branch. Upon graduation, he was commissioned as an officer in the US Army and completed the Advanced General Dentistry Program.&#xA;For the next 8 years, Dr. Haddad practiced general dentistry and earned his Fellowship of the Academy of General Dentistry in 1995. He then pursued the field he truly loved the most, Oral and Maxillofacial Surgery. Dr.</description>
     </item>
     <item>
+      <title>Lip Tie</title>
+      <link>http://localhost:1313/services/lip-tie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/lip-tie/</guid>
+      <description>Lip tie is a condition where the thin band of tissue connecting the upper lip to the gum line is unusually tight or thickened, potentially restricting the movement of the upper lip. This can lead to challenges with breastfeeding in infants, difficulty forming a proper seal around a bottle or breast, and may contribute to dental issues and speech difficulties in older children and adults. Treating lip ties through procedures like frenotomy or frenuloplasty can improve breastfeeding success, promote proper oral development, and enhance speech clarity, ultimately leading to improved oral health and overall well-being.</description>
+    </item>
+    <item>
       <title>MEET OUR STAFF</title>
       <link>http://localhost:1313/about/meet-our-staff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/meet-our-staff/</guid>
       <description>Our team is a dynamic blend of administrative and surgical professionals, each bringing their unique expertise to ensure the smooth functioning of our practice. Our administrative staff members hold key roles, such as friendly receptionists who warmly greet patients, appointment schedulers who efficiently organize your visits, insurance coordinators who navigate the complexities of insurance coverage, and dedicated office managers overseeing operations at every location. Our exceptional surgical staff comprises highly skilled registered nurses and surgical assistants with DAANCE (Dental Anesthesia Assistant National Certified) certification.</description>
+    </item>
+    <item>
+      <title>Multiple Dental Implants</title>
+      <link>http://localhost:1313/services/multiple-dental-implants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/multiple-dental-implants/</guid>
+      <description>Multiple dental implants are a restorative dental solution that replaces several missing teeth. This procedure involves surgically placing two or more titanium posts into the jawbone, each serving as a stable anchor for individual crowns, a bridge, or even a full set of dentures. The benefits of multiple dental implants are substantial: they offer a permanent, natural-looking, and functional replacement for missing teeth, improving aesthetics and oral functionality. Unlike traditional dentures or bridges, multiple implants provide superior stability and prevent bone loss by stimulating the jawbone, thus preserving facial structure and preventing the sunken appearance that often accompanies tooth loss.</description>
     </item>
     <item>
       <title>Nahla Chaudhary, DDS</title>
@@ -36,11 +155,88 @@
       <description>Dr. Chaudhary has a diverse background. She is of Pakistani/Indian descent and was born and raised in the United Arab Emirates in the Middle East. She relocated to New York, NY, for her higher education.&#xA;Dr. Chaudhary obtained her DDS degree from the New York University College of Dentistry in 2003. She then went on to complete a general practice residency for one year in Connecticut. This was followed by a one-year fellowship in oral and maxillofacial surgery at Columbia University, New York, NY.</description>
     </item>
     <item>
+      <title>Oral Pathology</title>
+      <link>http://localhost:1313/services/oral-pathology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/oral-pathology/</guid>
+      <description>Oral pathology refers to the specialized field of dentistry that focuses on the study, diagnosis, and treatment of diseases affecting the oral cavity. It involves examining various conditions that can occur in the mouth, such as infections, tumors, cysts, and other abnormalities.&#xA;The oral cavity is a complex structure composed of different tissues and organs like the lips, tongue, gums, salivary glands, and throat. Just like any other part of our body, these structures are susceptible to diseases and disorders.</description>
+    </item>
+    <item>
+      <title>Oral Surgery Educational Videos</title>
+      <link>http://localhost:1313/information/educational-videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/educational-videos/</guid>
+      <description>Informed Consent Presentations Our oral surgery videos are designed to enhance your understanding of the various oral surgery procedures we offer. Simply click on the image and select a specific video that piques your interest, allowing you to delve deeper into our comprehensive collection.&#xA;Wisdom Teeth Removal Frenectomy Facial Fractures Dental Implants Lesion of the Mouth Expose and Bond Disclaimer&#xA;Due to the limitations of some mobile products, such as older models or devices with outdated software, these videos may not be available on all devices.</description>
+    </item>
+    <item>
+      <title>Our Locations</title>
+      <link>http://localhost:1313/contact/all-locations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/all-locations/</guid>
+      <description>Our oral surgery practice is proud to serve in multiple locations. Click on the location nearest you to schedule an appointment.</description>
+    </item>
+    <item>
       <title>PATIENT REGISTRATION</title>
       <link>http://localhost:1313/patient-resources/patient-registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/patient-resources/patient-registration/</guid>
       <description>You may preregister with our office by utilizing the convenience of our secure online Patient Registration Form. This user-friendly form ensures your data remains safeguarded throughout the process. Once you have diligently filled out all necessary fields, kindly press the Submit button positioned at the bottom to seamlessly share your information with us.&#xA;Rest assured that upon your first visit to our office, we will already have your completed form readily available for your signature, saving you valuable time and effort.</description>
+    </item>
+    <item>
+      <title>Platelet-Rich Plasma</title>
+      <link>http://localhost:1313/services/platelet-rich-plasma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/platelet-rich-plasma/</guid>
+      <description>Platelet-rich plasma, commonly known as PRP, is a cutting-edge treatment that has gained popularity in recent years. PRP involves using a patient&amp;rsquo;s own blood to extract platelets and plasma. Platelets are tiny cells responsible for clotting and healing damaged tissues, while plasma is the liquid portion of blood containing important growth factors.&#xA;How Does It Work? To create PRP, a small amount of blood is drawn from the patient and then placed in a centrifuge machine.</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/information/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/privacy-policy/</guid>
+      <description>The Notice of Privacy Practices form contains important information about how we handle your personal data. It is a summary required by federal law that explains our privacy practices to ensure transparency and protect your privacy rights as our valued patient.&#xA;Click here to read the Notice of Privacy Practices </description>
+    </item>
+    <item>
+      <title>Sedation Dentistry</title>
+      <link>http://localhost:1313/services/sedation-dentistry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/sedation-dentistry/</guid>
+      <description>Sedation Dentistry Sedation dentistry, also known as sleep dentistry or twilight dentistry, is a technique used to help patients feel relaxed and at ease during dental procedures. It involves the use of medication that induces a state of deep relaxation or even sleep, depending on the level of sedation required. At our dental office, all services that need IV sedation are rendered under the supervision of doctors specialized in providing IV sedation.</description>
+    </item>
+    <item>
+      <title>Single Implants</title>
+      <link>http://localhost:1313/services/single-implants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/single-implants/</guid>
+      <description>A single dental implant is a modern dental solution designed to replace an individual missing tooth. It involves the surgical insertion of a titanium post into the jawbone, which acts as a replacement for the tooth root. This post is topped with an abutment, which connects the implant to a custom-made crown that mimics the appearance and function of a natural tooth. The benefits of a single dental implant are extensive: it provides a natural look and feel, restores full chewing power, and enhances speech.</description>
+    </item>
+    <item>
+      <title>Surgical Instructions</title>
+      <link>http://localhost:1313/surgical-instructions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/surgical-instructions/</guid>
+      <description>Pre-Operative Instructions Do Not Eat/Drink/Smoke Starting From Midnight Before Your Surgery: When undergoing dental surgery with general anesthesia or IV sedation, it is crucial to refrain from eating, drinking any fluids (even water), and smoking starting from midnight before your scheduled appointment. You may take any necessary medicine with a small sip of water. This precaution ensures that your stomach remains empty during the procedure to minimize the risk of complications such as aspiration.</description>
+    </item>
+    <item>
+      <title>Tongue Tie</title>
+      <link>http://localhost:1313/services/tongue-tie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/tongue-tie/</guid>
+      <description>Tongue tie, medically known as ankyloglossia, is a condition present at birth where the lingual frenulum, the tissue connecting the tongue to the floor of the mouth, is abnormally short, thick, or tight. This restriction can limit the tongue&amp;rsquo;s range of motion, impacting various functions such as speaking, swallowing, and breastfeeding. Symptoms of tongue-tie may include difficulty sticking out the tongue, challenges with breastfeeding or latching onto a bottle, speech difficulties, and oral hygiene issues.</description>
+    </item>
+    <item>
+      <title>What To Expect During Your First Visit</title>
+      <link>http://localhost:1313/information/new-patient-info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/information/new-patient-info/</guid>
+      <description>During your first visit to our office, you can expect a comprehensive and informative experience. Our highly skilled medical professionals will begin by conducting a consultation, where they will take the time to explain your diagnosis in detail, along with various treatment options available. We understand that every patient is unique, and we aim to create an individualized plan tailored specifically for you.&#xA;In some cases, if suitable, surgery may be performed on the same day as the consultation itself – ensuring convenience and efficiency for our patients.</description>
+    </item>
+    <item>
+      <title>Wisdom Tooth Removal</title>
+      <link>http://localhost:1313/services/wisdom-tooth-removal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/wisdom-tooth-removal/</guid>
+      <description>Wisdom teeth, also known as third molars, are the last set of molars located at the back of the mouth. Most people have four wisdom teeth – two in the upper jaw and two in the lower jaw. These teeth typically emerge in late adolescence or early adulthood, usually between the ages of 17 and 25.&#xA;The name &amp;ldquo;wisdom teeth&amp;rdquo; is derived from the fact that they emerge during a time in life when an individual is assumed to be older and wiser.</description>
     </item>
   </channel>
 </rss>

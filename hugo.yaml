@@ -74,36 +74,52 @@ params:
           url: /about/meet-our-staff
     - title: Services
       sublinks:
-        - title: Oral Surgery
-          url: /
-          # sublinks:
-          #   - title: Wisdom Tooth Removal
-          #     url: /
-          #   - title: Apicoectomy
-          #     url: /
-          #   - title: Facial Fractures
-        - title: Dental Implants and Bone Grafts
-          url: /
-        - title: Pediatric Oral Surgery
-          url: /
-        - title: Leisons & Cancer of the Mouth
-          url: /
         - title: Sedation Dentistry
-          url: /
-        - title: Dental Implants
-          url: /
-        - title: Facial Trauma
-          url: /
-        - title: Full Mouth Reconstruction
-          url: /
-        - title: Single Implants
-          url: /
-        - title: Multiple Dental Implants
-          url: /
-        - title: Tongue Tie
-          url: /
-        - title: Lip Tie
-          url: /
+          url: /services/sedation-dentistry
+        - title: Leisons & Cancer of the Mouth
+          nestedSublinks:
+            - title: Oral Pathology
+              url: /services/oral-pathology
+        - title: Oral Surgery
+          nestedSublinks:
+            - title: Wisdom Tooth Removal
+              url: /services/wisdom-tooth-removal
+            - title: Apicoectomy
+              url: /services/apicoectomy
+            - title: Facial Fractures
+              url: /services/facial-fractures
+            - title: Facial Trauma
+              url: /services/facial-trauma
+        - title: Pediatric Oral Surgery
+          nestedSublinks:
+            - title: Frenectomy
+              url: /services/frenectomy
+            - title: Canine Exposure
+              url: /services/canine-exposure
+            - title: Tongue Tie
+              url: /services/tongue-tie
+            - title: Lip Tie
+              url: /services/lip-tie
+        - title: Dental Implants and Bone Grafts
+          nestedSublinks:
+            - title: Immediate Implant Placement
+              url: /services/immediate-implant-placement
+            - title: Implant-Supported Dentures
+              url: /services/implant-supported-dentures
+            - title: Platelet-Rich Plasma
+              url: /services/platelet-rich-plasma
+            - title: 3D Imaging
+              url: /services/3d-imaging
+            - title: Bone Grafting
+              url: /services/bone-grafting
+            - title: Dental Implants
+              url: /services/dental-implants
+            - title: Full Mouth Reconstruction
+              url: /services/full-mouth-reconstruction
+            - title: Single Implants
+              url: /services/single-implants
+            - title: Multiple Dental Implants
+              url: /services/multiple-dental-implants
     - title: Patient Resources
       sublinks:
         - title: Patient Registration
@@ -112,37 +128,31 @@ params:
           url: https://www.carecredit.com/
           external: true
         - title: Surgical Instructions
-          url: /
+          url: /surgical-instructions
     - title: Patient Information
       sublinks:
         - title: Introduction
-          url: /
+          url: /information/introduction
         - title: New Patient Info
-          url: /
+          url: /information/new-patient-info
         - title: Insurance
-          url: /
+          url: /information/insurance
         - title: Financial Policy
-          url: /
+          url: /information/financial-policy
         - title: Privacy Policy Info
-          url: /
-        - title: Educational Video
-          url: /
+          url: /information/privacy-policy
+        - title: Educational Videos
+          url: /information/educational-videos
         - title: Read our Google Reviews
-          url: /
+          url: /information/google-reviews
     - title: Referral Forms
       url: /
     - title: Contact
       sublinks:
-        - title: Frederick Office Map
-          url: /
-        - title: Hagerstown Office Map
-          url: /
-        - title: Martinsburg Office Map
-          url: /
-        - title: Reviews
-          url: /
+        - title: Our Locations
+          url: /contact/all-locations
         - title: Contact Info
-          url: /
+          url: /contact/contact-info
     - title: Appointment
       url: /
       button: true
@@ -334,12 +344,12 @@ params:
         contact: /contact
         book: /contact
 
-  # section5:
-  #   title: Drop us a line or two
-  #   subtitle: We'd love to hear from you
-  #   buttonText: Send Message
-  #   # action: https://formspree.io/f/<form_id>
-  #   # method: POST
+  section5:
+    title: Drop us a line or two
+    subtitle: We'd love to hear from you
+    buttonText: Send Message
+    # action: https://formspree.io/f/<form_id>
+    # method: POST
   footer:
     # Logo (from static/images/logos/___)
     logo: omax.webp
@@ -363,7 +373,7 @@ params:
       column1:
         title: "Links"
         links:
-          - text: Copyright © 2024 Associated Oral & Maxillofacial Surgeons
+          - text: Copyright © 2024 AOMS
             link: /
           - text: Privacy Policy
             link: /privacy-policy

@@ -35,6 +35,16 @@ $section-padding-medium: 6rem 4rem;
   }
 }
 
+.content-location-container {
+  .section {
+    @include desktop {
+      &.is-medium {
+        padding-top: 0;
+      }
+    }
+  }
+}
+
 //Titles
 .title-wrapper {
   max-width: 500px;

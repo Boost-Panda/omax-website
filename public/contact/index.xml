@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Associated Oral &amp; Maxillofacial Surgeons</title>
+    <link>http://localhost:1313/contact/</link>
+    <description>Recent content in Contacts on Associated Oral &amp; Maxillofacial Surgeons</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/contact-info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/contact-info/</guid>
+      <description> Drop us a line or two We&amp;#39;d love to hear from you Send Message </description>
+    </item>
+    <item>
+      <title>Our Locations</title>
+      <link>http://localhost:1313/contact/all-locations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/all-locations/</guid>
+      <description>Our oral surgery practice is proud to serve in multiple locations. Click on the location nearest you to schedule an appointment.</description>
+    </item>
+  </channel>
+</rss>

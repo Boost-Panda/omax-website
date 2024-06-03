@@ -2,20 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/services/3d-imaging/</loc>
+  </url><url>
+    <loc>http://localhost:1313/information/introduction/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/apicoectomy/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/services/bone-grafting/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/canine-exposure/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/contact-info/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/dental-implants/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/facial-fractures/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/facial-trauma/</loc>
+  </url><url>
+    <loc>http://localhost:1313/information/financial-policy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/information/insurance/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/frenectomy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/full-mouth-reconstruction/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/dr-nelson/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/immediate-implant-placement/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/implant-supported-dentures/</loc>
+  </url><url>
+    <loc>http://localhost:1313/information/</loc>
   </url><url>
     <loc>http://localhost:1313/about/dr-haddad/</loc>
   </url><url>
+    <loc>http://localhost:1313/services/lip-tie/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/meet-our-staff/</loc>
   </url><url>
+    <loc>http://localhost:1313/services/multiple-dental-implants/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/dr-chaudhary/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/oral-pathology/</loc>
+  </url><url>
+    <loc>http://localhost:1313/information/educational-videos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/all-locations/</loc>
   </url><url>
     <loc>http://localhost:1313/patient-resources/patient-registration/</loc>
   </url><url>
     <loc>http://localhost:1313/patient-resources/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/platelet-rich-plasma/</loc>
+  </url><url>
+    <loc>http://localhost:1313/information/privacy-policy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/sedation-dentistry/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/single-implants/</loc>
+  </url><url>
+    <loc>http://localhost:1313/surgical-instructions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/tongue-tie/</loc>
+  </url><url>
+    <loc>http://localhost:1313/information/new-patient-info/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/wisdom-tooth-removal/</loc>
   </url>
 </urlset>

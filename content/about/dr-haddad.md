@@ -7,6 +7,7 @@ draft: false
 type: doctors
 layout: doctors
 image: /images/site-images/dr-haddad.webp
+book: /contact
 ---
 
 Dr. Haddad graduated in 1987 from the University of Texas Health Science Center Dental Branch. Upon graduation, he was commissioned as an officer in the US Army and completed the Advanced General Dentistry Program.

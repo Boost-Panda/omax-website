@@ -14,10 +14,17 @@
       </div>
       <div class="doctors-container">
         <img src="{{ .Params.Image }}" alt="{{ .Title }}" class="image" />
-        <div class="content">{{ .Content }}</div>
+        <div class="content">
+          {{ .Content }}
+          <div>
+            <a href="{{ .Params.book }}" class="button cta rounded primary-btn">Book Online</a>
+          </div>
+        </div>
       </div>
     </div>
   </section>
+
+  {{ partial "locations.html" . }}
 
   {{ partial "footer.html" . }}
 {{ end }}

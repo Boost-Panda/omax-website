@@ -1,0 +1,17 @@
+{{/*
+  Currently all links default to opening in a new tab. But if you want only external links to open in a new tab, then use the following code.
+  
+  {{ if strings.HasPrefix .Destination "http" }}
+    target="_blank"
+  {{ end }}
+  
+*/}}
+
+<a
+  href="{{ .Destination | safeURL }}"
+  {{ with .Title }}
+    title="{{ . }}"
+  {{ end }}
+  target="_blank"
+  >{{ .Text }}</a
+>

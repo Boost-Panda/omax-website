@@ -7,6 +7,7 @@ draft: false
 type: doctors
 layout: doctors
 image: /images/site-images/dr-chaudhary.webp
+book: /contact
 ---
 
 Dr. Chaudhary has a diverse background. She is of Pakistani/Indian descent and was born and raised in the United Arab Emirates in the Middle East. She relocated to New York, NY, for her higher education.

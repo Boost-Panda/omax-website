@@ -76,9 +76,26 @@
 
               <div class="navbar-dropdown">
                 {{- range .sublinks }}
-                  <a href="{{ .url }}" target="{{- if .external }}_blank{{- end }}" class="navbar-item">
-                    {{ .title }}
-                  </a>
+                  <div>
+                    {{- if .nestedSublinks }}
+                      <div class="nested-navbar-container">
+                        <div class="nested-navbar-title">
+                          {{ .title }} <i class="nested-icon fas fa-chevron-right"></i>
+                        </div>
+                        <div class="nested-navbar-dropdown">
+                          {{- range .nestedSublinks }}
+                            <a href="{{ .url }}" target="{{- if .external }}_blank{{- end }}" class="navbar-item">
+                              {{ .title }}
+                            </a>
+                          {{- end }}
+                        </div>
+                      </div>
+                    {{- else }}
+                      <a href="{{ .url }}" target="{{- if .external }}_blank{{- end }}" class="navbar-item">
+                        {{ .title }}
+                      </a>
+                    {{- end }}
+                  </div>
                 {{- end }}
               </div>
             </div>
