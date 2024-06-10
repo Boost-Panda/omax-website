@@ -28,8 +28,8 @@
             <div class="content">
               <h3>{{ .name }}</h3>
               <p class="address"><a href="{{ .link }}" target="_blank">{{ .address }}</a></p>
-              <div class="columns">
-                <div class="column">
+              <div class="is-flex">
+                <div class="flex-item mr-2">
                   <p><strong>Phone</strong></p>
                   <p><strong>Email</strong></p>
                   <br />
@@ -37,7 +37,7 @@
                     <p><strong>{{ .day }}</strong></p>
                   {{ end }}
                 </div>
-                <div class="column">
+                <div class="flex-item">
                   <p><a href="tel:{{ .phone }}">{{ .phone }}</a></p>
                   <p><a href="mailto:{{ .email }}">{{ .email }}</a></p>
                   <br />

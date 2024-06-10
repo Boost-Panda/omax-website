@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patient-Resources on Associated Oral &amp; Maxillofacial Surgeons</title>
-    <link>http://localhost:1313/patient-resources/</link>
+    <link>http://localhost:1313/omax-website/patient-resources/</link>
     <description>Recent content in Patient-Resources on Associated Oral &amp; Maxillofacial Surgeons</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/patient-resources/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/omax-website/patient-resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PATIENT REGISTRATION</title>
-      <link>http://localhost:1313/patient-resources/patient-registration/</link>
+      <link>http://localhost:1313/omax-website/patient-resources/patient-registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/patient-resources/patient-registration/</guid>
+      <guid>http://localhost:1313/omax-website/patient-resources/patient-registration/</guid>
       <description>You may preregister with our office by utilizing the convenience of our secure online Patient Registration Form. This user-friendly form ensures your data remains safeguarded throughout the process. Once you have diligently filled out all necessary fields, kindly press the Submit button positioned at the bottom to seamlessly share your information with us.&#xA;Rest assured that upon your first visit to our office, we will already have your completed form readily available for your signature, saving you valuable time and effort.</description>
     </item>
   </channel>

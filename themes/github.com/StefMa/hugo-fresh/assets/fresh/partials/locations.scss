@@ -1,0 +1,21 @@
+.locations-container {
+  .content p:not(:last-child) {
+    margin-bottom: 0.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .locations-container {
+    .content p {
+      font-size: 0.9rem;
+    }
+  }
+}
+
+@media (max-width: 408px) {
+  .locations-container {
+    .content p {
+      font-size: 0.8rem;
+    }
+  }
+}

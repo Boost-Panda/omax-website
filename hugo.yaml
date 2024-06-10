@@ -1,4 +1,5 @@
 baseURL: https://boost-panda.github.io/omax-website
+# baseURL: https://boost-panda.github.io
 languageCode: en-us
 title: Associated Oral & Maxillofacial Surgeons
 
@@ -44,7 +45,7 @@ params:
     # Where the main hero button links to
     buttonlink: "#"
     # Hero image (from static/images/___)
-    image: illustrations/aliirz_a_digital_illustration_perfect_for_a_dental_clinics_prom_2f605d9d-fbb8-4a0a-802f-af0e03aa3229 (1).webp
+    image: illustrations/Highly Real Photo.png
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
     clientlogos:
@@ -293,8 +294,8 @@ params:
             time: Closed
           - day: Sunday
             time: Closed
-        contact: /contact
-        book: /contact
+        contact: /contact/contact-info
+        book: /contact/contact-info
       - name: Hagerstown, MD
         link: https://maps.app.goo.gl/kdQNTxY2Ry9w4wHaA
         map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d97999.0299669069!2d-77.87457549332146!3d39.62490734758505!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9ecde818ba425%3A0x46a2db07a9ba5821!2sAssociated%20Oral%20%26%20Maxillofacial%20Surgeons!5e0!3m2!1sen!2s!4v1717250395008!5m2!1sen!2s
@@ -316,8 +317,8 @@ params:
             time: Closed
           - day: Sunday
             time: Closed
-        contact: /contact
-        book: /contact
+        contact: /contact/contact-info
+        book: /contact/contact-info
       - name: Martinsburg, WV
         link: https://maps.app.goo.gl/tonQLWxhiScnff8HA
         map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d97999.0299669069!2d-77.87457549332146!3d39.62490734758505!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9ecde818ba425%3A0x46a2db07a9ba5821!2sAssociated%20Oral%20%26%20Maxillofacial%20Surgeons!5e0!3m2!1sen!2s!4v1717250395008!5m2!1sen!2s
@@ -339,8 +340,8 @@ params:
             time: Closed
           - day: Sunday
             time: Closed
-        contact: /contact
-        book: /contact
+        contact: /contact/contact-info
+        book: /contact/contact-info
 
   section5:
     title: Drop us a line or two

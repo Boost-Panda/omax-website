@@ -4,8 +4,6 @@ include_footer: true # or false to display the footer
 draft: false
 ---
 
-# Sedation Dentistry
-
 Sedation dentistry, also known as sleep dentistry or twilight dentistry, is a technique used to help patients feel relaxed and at ease during dental procedures. It involves the use of medication that induces a state of deep relaxation or even sleep, depending on the level of sedation required. At our dental office, all services that need IV sedation are rendered under the supervision of doctors specialized in providing IV sedation.
 
 ## Sedation Options

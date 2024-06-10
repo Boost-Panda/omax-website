@@ -7,7 +7,7 @@ draft: false
 type: doctors
 layout: doctors
 image: /images/site-images/dr-nelson.webp
-book: /contact
+book: /contact/contact-info
 ---
 
 Dr. Nelson was born and raised in Santa Cruz, Jamaica, and completed his undergraduate education at the University of the West Indies in Mona, Kingston, Jamaica. He then attended Howard University College of Dentistry in Washington, D.C., where he was inducted into the National Dental Honor Society Omicron Kappa Upsilon.

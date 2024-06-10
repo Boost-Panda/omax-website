@@ -107,6 +107,7 @@ Cards and Card content styles
     }
   }
   .card-content {
+    padding: 1rem;
     .content {
       font-size: var(--font-size);
       line-height: var(--line-height);
@@ -136,11 +137,5 @@ Cards and Card content styles
       }
       min-height: auto;
     }
-  }
-}
-
-.locations-container {
-  .content p:not(:last-child) {
-    margin-bottom: 0.5rem;
   }
 }

@@ -8328,6 +8328,7 @@ Cards and Card content styles
   .card .image iframe {
     border-radius: 0.8rem 0.8rem 0 0; }
   .card .card-content {
+    padding: 1rem;
     min-height: calc(var(--font-size) * var(--line-height) * 10); }
     .card .card-content .content {
       font-size: var(--font-size);
@@ -8344,9 +8345,6 @@ Cards and Card content styles
       min-height: auto; }
       .card.small .card-content .content .address {
         min-height: calc(var(--font-size) * var(--line-height) * 2); }
-
-.locations-container .content p:not(:last-child) {
-  margin-bottom: 0.5rem; }
 
 /* ==========================================================================
 Inputs styles
@@ -8880,6 +8878,17 @@ body #backtotop a {
 :-moz-placeholder {
   /* Firefox 18- */
   color: #cecece; }
+
+.locations-container .content p:not(:last-child) {
+  margin-bottom: 0.5rem; }
+
+@media (max-width: 768px) {
+  .locations-container .content p {
+    font-size: 0.9rem; } }
+
+@media (max-width: 408px) {
+  .locations-container .content p {
+    font-size: 0.8rem; } }
 
 .doctors-container {
   display: flex;
