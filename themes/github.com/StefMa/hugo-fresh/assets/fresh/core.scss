@@ -14,22 +14,39 @@ $brand-primary: #f39200;
   line-height: var(--line-height);
 }
 
-//Imports
-@import 'partials/grid';
-@import 'partials/colors';
-@import 'partials/navbar';
-@import 'partials/dropdowns';
-@import 'partials/sections';
-@import 'partials/hero';
-@import 'partials/footer';
-@import 'partials/buttons';
-@import 'partials/cards';
-@import 'partials/forms';
-@import 'partials/animations';
-@import 'partials/sidebar';
-@import 'partials/testimonials';
-@import 'partials/responsive';
-@import 'partials/utils';
-@import 'partials/locations.scss';
+.registration-buttons-container {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 1rem;
+  flex-wrap: wrap;
 
-@import 'custom/doctors';
+  .registration-button-container {
+    margin: 1rem 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .registration-buttons-container {
+    flex-direction: column;
+  }
+}
+
+//Imports
+@import "partials/grid";
+@import "partials/colors";
+@import "partials/navbar";
+@import "partials/dropdowns";
+@import "partials/sections";
+@import "partials/hero";
+@import "partials/footer";
+@import "partials/buttons";
+@import "partials/cards";
+@import "partials/forms";
+@import "partials/animations";
+@import "partials/sidebar";
+@import "partials/testimonials";
+@import "partials/responsive";
+@import "partials/utils";
+@import "partials/locations.scss";
+
+@import "custom/doctors";

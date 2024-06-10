@@ -7799,6 +7799,18 @@ Main SCSS file / Fresh
 .subtitle {
   line-height: var(--line-height); }
 
+.registration-buttons-container {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 1rem;
+  flex-wrap: wrap; }
+  .registration-buttons-container .registration-button-container {
+    margin: 1rem 0; }
+
+@media (max-width: 768px) {
+  .registration-buttons-container {
+    flex-direction: column; } }
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
