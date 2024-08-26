@@ -214,7 +214,7 @@ params:
     features:
       - title: Dental Impants and Bone Grafts
         text: Dental implants provide a reliable foundation for replacement teeth. These artificial roots, made of titanium, are surgically inserted into the jawbone. Over time, they integrate with your bone, offering a stable base for long-lasting dental restorations.
-        image: site-images/services/3.webp
+        image: site-images/gallery/12.webp
       - title: Wisdom Tooth Removal
         text: Wisdom teeth, or third molars, are the last to emerge, usually between the ages of 17 and 25. Our clinic offers wisdom teeth removal to address pain, crowding, and other issues that these teeth might cause as they develop.
         image: site-images/services/2.webp
@@ -229,7 +229,7 @@ params:
         image: site-images/services/5.jpg
       - title: Facial Fractures
         text: Facial fractures can affect the jaw, cheekbones, nose, and eye sockets. Our clinic specializes in repairing these injuries, restoring facial structure and function after accidents or trauma.
-        image: site-images/services/4.jpg
+        image: site-images/gallery/13.webp
   insuranceSection:
     title: FINANCING YOUR CARE
     subtitle: At Associated Oral & Maxillofacial Surgeons, we make every effort to provide you with the finest care and the most convenient financial options. To accomplish this, we work hand-in-hand with you to maximize your insurance reimbursement for covered procedures.
@@ -239,12 +239,18 @@ params:
     title: Our Office
     subtitle: Take a look around
     images:
+      - image: site-images/gallery/4.webp
+      - image: site-images/gallery/7.webp
+      - image: site-images/gallery/9.webp
       - image: site-images/gallery/838e4cbaacc76d4d76b3960a41b0b435.jpg
+      - image: site-images/gallery/2.webp
+      - image: site-images/gallery/3.webp
       - image: site-images/gallery/Image-8.webp
       - image: site-images/gallery/office-tour-1.webp
-      - image: site-images/gallery/office-tour-5.webp
-      - image: site-images/gallery/office-tour-6.webp
-      - image: site-images/gallery/office-tour-8.webp
+      - image: site-images/gallery/14.webp
+      - image: site-images/gallery/8.webp
+      - image: site-images/gallery/10.webp
+      - image: site-images/gallery/11.webp
   section4:
     title: Hear It from Our Happy Patients
     subtitle: Discover why our patients trust us with their smiles, time and again.

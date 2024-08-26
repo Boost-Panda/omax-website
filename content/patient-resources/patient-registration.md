@@ -12,13 +12,13 @@ Rest assured that upon your first visit to our office, we will already have your
 
 <div class="registration-buttons-container">
   <div class="registration-button-container">
-    {{< button URL="https://forms.growthplug.com/c/twhk1x/8eRqN9" Target="_blank" Text="Frederick Office" >}}&nbsp;&nbsp;&nbsp;&nbsp;
+    {{< button URL="https://hala-form.vercel.app/?formId=DVh2qST1rZY3XKjxMgEP" Target="_blank" Text="Frederick Office" >}}&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
   <div class="registration-button-container">
-    {{< button URL="https://forms.growthplug.com/c/twhk1x/oPbDBR" Target="_blank" Text="Hagerstown Office" >}}&nbsp;&nbsp;&nbsp;&nbsp;
+    {{< button URL="https://hala-form.vercel.app/?formId=FIAPwJtIxffeXYB2whyY" Target="_blank" Text="Hagerstown Office" >}}&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
   <div class="registration-button-container">
-    {{< button URL="https://forms.growthplug.com/c/twhk1x/ZeKJOl" Target="_blank" Text="Martinsburg Office" >}}
+    {{< button URL="https://hala-form.vercel.app/?formId=ktk9edCmU0t46c3GE4g2" Target="_blank" Text="Martinsburg Office" >}}
   </div>
 </div>
 
