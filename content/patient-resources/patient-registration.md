@@ -12,13 +12,13 @@ Rest assured that upon your first visit to our office, we will already have your
 
 <div class="registration-buttons-container">
   <div class="registration-button-container">
-    {{< button URL="https://hala-form.vercel.app/?formId=DVh2qST1rZY3XKjxMgEP" Target="_blank" Text="Frederick Office" >}}&nbsp;&nbsp;&nbsp;&nbsp;
+    {{< button URL="https://mysecurepractice.com/Truform/30617486-fcaa-4eae-8919-71f3f6ba00c9/Submission/Create" Target="_blank" Text="Frederick Office" >}}&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
   <div class="registration-button-container">
-    {{< button URL="https://hala-form.vercel.app/?formId=FIAPwJtIxffeXYB2whyY" Target="_blank" Text="Hagerstown Office" >}}&nbsp;&nbsp;&nbsp;&nbsp;
+    {{< button URL="https://mysecurepractice.com/Truform/52017d9f-5898-42e1-947c-c156ce20c12f/Submission/Create" Target="_blank" Text="Hagerstown Office" >}}&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
   <div class="registration-button-container">
-    {{< button URL="https://hala-form.vercel.app/?formId=ktk9edCmU0t46c3GE4g2" Target="_blank" Text="Martinsburg Office" >}}
+    {{< button URL="https://mysecurepractice.com/Truform/4b7b9640-1fd9-4b8f-bc22-85dc87114295/Submission/Create" Target="_blank" Text="Martinsburg Office" >}}
   </div>
 </div>
 
