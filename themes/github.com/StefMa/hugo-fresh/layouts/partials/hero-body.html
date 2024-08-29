@@ -3,6 +3,7 @@
 {{- $subtitle   := index $hero "subtitle" }}
 {{- $buttonText := index $hero "buttontext" }}
 {{- $buttonLink := index $hero "buttonlink" }}
+{{- $buttonExternal := index $hero "buttonExternal" }}
 {{- $image      := index $hero "image" }}
 
 
@@ -19,7 +20,7 @@
           </h2>
         {{ end }}
         <p>
-          <a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">
+          <a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}" target="{{- if $buttonExternal }}_blank{{- end }}">
             {{ $buttonText }}
           </a>
         </p>

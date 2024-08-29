@@ -43,7 +43,8 @@ params:
     # Button text
     buttontext: Request an Appointment
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "https://hala-form.vercel.app/?formId=AxkM09vOM8e3UMscDeVk"
+    buttonExternal: true
     # Hero image (from static/images/___)
     image: illustrations/Highly Real Photo.png
     # Footer logos (from static/images/logos/clients/*.svg)
@@ -153,8 +154,9 @@ params:
         - title: Contact Info
           url: /contact/contact-info
     - title: Appointment
-      url: /
+      url: https://hala-form.vercel.app/?formId=AxkM09vOM8e3UMscDeVk
       button: true
+      external: true
   # sidebar:
   #   # Logo (from static/images/logos/___.svg)
   #   logo: fresh-square
@@ -214,13 +216,13 @@ params:
     features:
       - title: Dental Impants and Bone Grafts
         text: Dental implants provide a reliable foundation for replacement teeth. These artificial roots, made of titanium, are surgically inserted into the jawbone. Over time, they integrate with your bone, offering a stable base for long-lasting dental restorations.
-        image: site-images/gallery/12.webp
+        image: site-images/gallery/15.webp
       - title: Wisdom Tooth Removal
         text: Wisdom teeth, or third molars, are the last to emerge, usually between the ages of 17 and 25. Our clinic offers wisdom teeth removal to address pain, crowding, and other issues that these teeth might cause as they develop.
         image: site-images/services/2.webp
-      - title: Oral Surgery
-        text: This specialized branch of dentistry addresses conditions affecting the mouth, face, jaw, and neck. Our treatments range from corrective surgeries to aesthetic enhancements, focusing on restoring health and function.
-        image: site-images/services/6.jpg
+      - title: Sedation
+        text: All surgical procedures can be rendered with sedation. Patient safety and comfort is important to us. All of our providers are certified in IV sedation techniques.
+        image: site-images/gallery/12.webp
       - title: Pediatric Oral Surgery
         text: Our pediatric oral surgery services cater to the unique needs of children, from routine extractions to complex surgeries. We focus on providing a safe and gentle experience for our young patients.
         image: site-images/services/1.webp
