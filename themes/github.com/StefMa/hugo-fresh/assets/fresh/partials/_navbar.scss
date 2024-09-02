@@ -127,6 +127,26 @@ Navbar
       }
     }
   }
+
+  .navbar-phone-numbers {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    font-size: 0.8rem;
+    gap: 2rem;
+    padding: 0.5rem 1rem;
+    max-width: 1366px;
+
+    a {
+      color: #464646;
+
+      &:hover {
+        text-decoration: underline;
+        color: #000000;
+      }
+    }
+  }
 }
 
 //Cloned fixed navbar

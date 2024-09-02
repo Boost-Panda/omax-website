@@ -7932,6 +7932,20 @@ Navbar
       color: #444F60; }
       .navbar.is-fresh.is-fixed a:hover {
         color: #4FC1EA; }
+  .navbar.is-fresh .navbar-phone-numbers {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    font-size: 0.8rem;
+    gap: 2rem;
+    padding: 0.5rem 1rem;
+    max-width: 1366px; }
+    .navbar.is-fresh .navbar-phone-numbers a {
+      color: #464646; }
+      .navbar.is-fresh .navbar-phone-numbers a:hover {
+        text-decoration: underline;
+        color: #000000; }
 
 #navbar-clone {
   position: fixed;
