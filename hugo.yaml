@@ -9,7 +9,6 @@ module:
   imports:
     - path: github.com/StefMa/hugo-fresh
 
-
 googleAnalytics: G-KNKRSQ0L48
 # Disables warnings
 disableKinds:
@@ -28,7 +27,7 @@ params:
   # preloader: false
   navbarlogo:
     # Logo (from static/images/logos/___)
-    image: logos/omax.png
+    image: logos/omax.webp
     link: /
     # Default width/height. Uncomment if you need to change
     width: auto
@@ -360,7 +359,7 @@ params:
     # method: POST
   footer:
     # Logo (from static/images/logos/___)
-    logo: omax.png
+    logo: omax.webp
     # Social Media Title
     # socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.

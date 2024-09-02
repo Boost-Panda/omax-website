@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Information on Associated Oral &amp; Maxillofacial Surgeons</title>
-    <link>http://localhost:1313/omax-website/information/</link>
+    <link>//localhost:1313/omaxdocs.com/information/</link>
     <description>Recent content in Information on Associated Oral &amp; Maxillofacial Surgeons</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/omax-website/information/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/omaxdocs.com/information/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Our Practice</title>
-      <link>http://localhost:1313/omax-website/information/introduction/</link>
+      <link>//localhost:1313/omaxdocs.com/information/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/omax-website/information/introduction/</guid>
+      <guid>//localhost:1313/omaxdocs.com/information/introduction/</guid>
       <description>Welcome to our dental practice, where we specialize in oral and maxillofacial surgery. At Associated Oral and Maxillofacial Surgeons, we pride ourselves on providing exceptional care that goes beyond the ordinary. Our team of highly skilled doctors has undergone extensive training in hospital-based surgical and anesthesia procedures, ensuring that you receive the highest level of expertise available. With a full scope of services ranging from dental implant surgery to wisdom tooth removal, we are equipped to handle any issue relating to the mouth, teeth, and facial regions.</description>
     </item>
     <item>
       <title>Financial Policy</title>
-      <link>http://localhost:1313/omax-website/information/financial-policy/</link>
+      <link>//localhost:1313/omaxdocs.com/information/financial-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/omax-website/information/financial-policy/</guid>
+      <guid>//localhost:1313/omaxdocs.com/information/financial-policy/</guid>
       <description>For your convenience, we accept Visa, MasterCard, Discover, and American Express as forms of payment. Our utmost priority is to provide the finest care to our patients while ensuring that costs remain reasonable. To facilitate a seamless experience for all parties involved, we kindly request payment at the time services are rendered unless prior arrangements have been made.&#xA;We understand that financial matters can occasionally be complex or lead to misunderstandings.</description>
     </item>
     <item>
       <title>Financing Your Care</title>
-      <link>http://localhost:1313/omax-website/information/insurance/</link>
+      <link>//localhost:1313/omaxdocs.com/information/insurance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/omax-website/information/insurance/</guid>
+      <guid>//localhost:1313/omaxdocs.com/information/insurance/</guid>
       <description>At Associated Oral &amp;amp; Maxillofacial Surgeons, we understand the importance of addressing your insurance needs with utmost care and efficiency. We recognize that navigating through insurance policies can often be a complex process, which is why our dedicated team works alongside you to ensure maximal reimbursement for covered procedures.&#xA;Our staff members are well-trained and constantly updated on the latest developments in insurance regulations and requirements. Therefore, if you encounter any issues or have any questions during this process, please do not hesitate to reach out to us; we are here to assist you every step of the way.</description>
     </item>
     <item>
       <title>Oral Surgery Educational Videos</title>
-      <link>http://localhost:1313/omax-website/information/educational-videos/</link>
+      <link>//localhost:1313/omaxdocs.com/information/educational-videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/omax-website/information/educational-videos/</guid>
+      <guid>//localhost:1313/omaxdocs.com/information/educational-videos/</guid>
       <description>Informed Consent Presentations Our oral surgery videos are designed to enhance your understanding of the various oral surgery procedures we offer. Simply click on the image and select a specific video that piques your interest, allowing you to delve deeper into our comprehensive collection.&#xA;Wisdom Teeth Removal Frenectomy Facial Fractures Dental Implants Lesion of the Mouth Expose and Bond Disclaimer&#xA;Due to the limitations of some mobile products, such as older models or devices with outdated software, these videos may not be available on all devices.</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/omax-website/information/privacy-policy/</link>
+      <link>//localhost:1313/omaxdocs.com/information/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/omax-website/information/privacy-policy/</guid>
+      <guid>//localhost:1313/omaxdocs.com/information/privacy-policy/</guid>
       <description>The Notice of Privacy Practices form contains important information about how we handle your personal data. It is a summary required by federal law that explains our privacy practices to ensure transparency and protect your privacy rights as our valued patient.&#xA;Click here to read the Notice of Privacy Practices </description>
     </item>
     <item>
       <title>What To Expect During Your First Visit</title>
-      <link>http://localhost:1313/omax-website/information/new-patient-info/</link>
+      <link>//localhost:1313/omaxdocs.com/information/new-patient-info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/omax-website/information/new-patient-info/</guid>
+      <guid>//localhost:1313/omaxdocs.com/information/new-patient-info/</guid>
       <description>During your first visit to our office, you can expect a comprehensive and informative experience. Our highly skilled medical professionals will begin by conducting a consultation, where they will take the time to explain your diagnosis in detail, along with various treatment options available. We understand that every patient is unique, and we aim to create an individualized plan tailored specifically for you.&#xA;In some cases, if suitable, surgery may be performed on the same day as the consultation itself – ensuring convenience and efficiency for our patients.</description>
     </item>
   </channel>
