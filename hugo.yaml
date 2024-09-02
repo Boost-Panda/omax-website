@@ -1,4 +1,4 @@
-baseURL: https://boost-panda.github.io/omax-website
+baseURL: https:/omaxdocs.com
 # baseURL: https://boost-panda.github.io
 languageCode: en-us
 title: Associated Oral & Maxillofacial Surgeons
@@ -9,7 +9,8 @@ module:
   imports:
     - path: github.com/StefMa/hugo-fresh
 
-# googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
+
+googleAnalytics: G-KNKRSQ0L48
 # Disables warnings
 disableKinds:
   - taxonomy
