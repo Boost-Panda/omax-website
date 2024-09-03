@@ -9,7 +9,6 @@ module:
   imports:
     - path: github.com/StefMa/hugo-fresh
 
-
 googleAnalytics: G-KNKRSQ0L48
 # Disables warnings
 disableKinds:
@@ -217,7 +216,7 @@ params:
     features:
       - title: Dental Impants and Bone Grafts
         text: Dental implants provide a reliable foundation for replacement teeth. These artificial roots, made of titanium, are surgically inserted into the jawbone. Over time, they integrate with your bone, offering a stable base for long-lasting dental restorations.
-        image: site-images/gallery/15.webp
+        image: site-images/gallery/athlete-female.webp
       - title: Wisdom Tooth Removal
         text: Wisdom teeth, or third molars, are the last to emerge, usually between the ages of 17 and 25. Our clinic offers wisdom teeth removal to address pain, crowding, and other issues that these teeth might cause as they develop.
         image: site-images/services/2.webp
@@ -226,13 +225,13 @@ params:
         image: site-images/gallery/12.webp
       - title: Pediatric Oral Surgery
         text: Our pediatric oral surgery services cater to the unique needs of children, from routine extractions to complex surgeries. We focus on providing a safe and gentle experience for our young patients.
-        image: site-images/services/1.webp
+        image: site-images/gallery/13.webp
       - title: Lesions & Cancer Of The Mouth
         text: We diagnose and treat various conditions affecting the oral cavity, including benign lesions and oral cancer. Our approach is comprehensive, aiming to ensure the health and well-being of each patient.
         image: site-images/services/5.jpg
       - title: Facial Fractures
         text: Facial fractures can affect the jaw, cheekbones, nose, and eye sockets. Our clinic specializes in repairing these injuries, restoring facial structure and function after accidents or trauma.
-        image: site-images/gallery/13.webp
+        image: site-images/gallery/athlete-male.webp
   insuranceSection:
     title: FINANCING YOUR CARE
     subtitle: At Associated Oral & Maxillofacial Surgeons, we make every effort to provide you with the finest care and the most convenient financial options. To accomplish this, we work hand-in-hand with you to maximize your insurance reimbursement for covered procedures.

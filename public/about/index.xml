@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Associated Oral &amp; Maxillofacial Surgeons</title>
-    <link>http://localhost:1313/omax-website/about/</link>
+    <link>//localhost:1313/omaxdocs.com/about/</link>
     <description>Recent content in Abouts on Associated Oral &amp; Maxillofacial Surgeons</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/omax-website/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/omaxdocs.com/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Howard L. Nelson, DDS</title>
-      <link>http://localhost:1313/omax-website/about/dr-nelson/</link>
+      <link>//localhost:1313/omaxdocs.com/about/dr-nelson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/omax-website/about/dr-nelson/</guid>
+      <guid>//localhost:1313/omaxdocs.com/about/dr-nelson/</guid>
       <description>Dr. Nelson was born and raised in Santa Cruz, Jamaica, and completed his undergraduate education at the University of the West Indies in Mona, Kingston, Jamaica. He then attended Howard University College of Dentistry in Washington, D.C., where he was inducted into the National Dental Honor Society Omicron Kappa Upsilon.&#xA;Upon graduation from dental school, Dr. Nelson completed his oral and maxillofacial surgery training at Howard University Hospital and its affiliates.</description>
     </item>
     <item>
       <title>Jay I. Haddad, DDS</title>
-      <link>http://localhost:1313/omax-website/about/dr-haddad/</link>
+      <link>//localhost:1313/omaxdocs.com/about/dr-haddad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/omax-website/about/dr-haddad/</guid>
+      <guid>//localhost:1313/omaxdocs.com/about/dr-haddad/</guid>
       <description>Dr. Haddad graduated in 1987 from the University of Texas Health Science Center Dental Branch. Upon graduation, he was commissioned as an officer in the US Army and completed the Advanced General Dentistry Program.&#xA;For the next 8 years, Dr. Haddad practiced general dentistry and earned his Fellowship of the Academy of General Dentistry in 1995. He then pursued the field he truly loved the most, Oral and Maxillofacial Surgery. Dr.</description>
     </item>
     <item>
       <title>MEET OUR STAFF</title>
-      <link>http://localhost:1313/omax-website/about/meet-our-staff/</link>
+      <link>//localhost:1313/omaxdocs.com/about/meet-our-staff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/omax-website/about/meet-our-staff/</guid>
+      <guid>//localhost:1313/omaxdocs.com/about/meet-our-staff/</guid>
       <description>Our team is a dynamic blend of administrative and surgical professionals, each bringing their unique expertise to ensure the smooth functioning of our practice. Our administrative staff members hold key roles, such as friendly receptionists who warmly greet patients, appointment schedulers who efficiently organize your visits, insurance coordinators who navigate the complexities of insurance coverage, and dedicated office managers overseeing operations at every location. Our exceptional surgical staff comprises highly skilled registered nurses and surgical assistants with DAANCE (Dental Anesthesia Assistant National Certified) certification.</description>
     </item>
     <item>
       <title>Nahla Chaudhary, DDS</title>
-      <link>http://localhost:1313/omax-website/about/dr-chaudhary/</link>
+      <link>//localhost:1313/omaxdocs.com/about/dr-chaudhary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/omax-website/about/dr-chaudhary/</guid>
+      <guid>//localhost:1313/omaxdocs.com/about/dr-chaudhary/</guid>
       <description>Dr. Chaudhary has a diverse background. She is of Pakistani/Indian descent and was born and raised in the United Arab Emirates in the Middle East. She relocated to New York, NY, for her higher education.&#xA;Dr. Chaudhary obtained her DDS degree from the New York University College of Dentistry in 2003. She then went on to complete a general practice residency for one year in Connecticut. This was followed by a one-year fellowship in oral and maxillofacial surgery at Columbia University, New York, NY.</description>
     </item>
   </channel>
