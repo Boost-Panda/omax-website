@@ -303,7 +303,7 @@ params:
           - day: Sunday
             time: Closed
         contact: /contact/contact-info
-        book: /contact/contact-info
+        book: https://hala-form.vercel.app/?formId=AxkM09vOM8e3UMscDeVk
       - name: Hagerstown, MD
         link: https://maps.app.goo.gl/kdQNTxY2Ry9w4wHaA
         map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d97999.0299669069!2d-77.87457549332146!3d39.62490734758505!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9ecde818ba425%3A0x46a2db07a9ba5821!2sAssociated%20Oral%20%26%20Maxillofacial%20Surgeons!5e0!3m2!1sen!2s!4v1717250395008!5m2!1sen!2s
@@ -326,7 +326,7 @@ params:
           - day: Sunday
             time: Closed
         contact: /contact/contact-info
-        book: /contact/contact-info
+        book: https://hala-form.vercel.app/?formId=AxkM09vOM8e3UMscDeVk
       - name: Martinsburg, WV
         link: https://maps.app.goo.gl/CibMJRciDeKiBMDz7
         map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d98552.91230761546!2d-78.1130264!3d39.4743322!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ca0254ae853e45%3A0x7523d7ffdbf9997!2sAssociated%20Oral%20%26%20Maxillofacial%20Surgeons!5e0!3m2!1sen!2s!4v1725366364286!5m2!1sen!2s
@@ -349,7 +349,7 @@ params:
           - day: Sunday
             time: Closed
         contact: /contact/contact-info
-        book: /contact/contact-info
+        book: https://hala-form.vercel.app/?formId=AxkM09vOM8e3UMscDeVk
 
   section5:
     title: Drop us a line or two
