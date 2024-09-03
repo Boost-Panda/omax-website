@@ -298,7 +298,7 @@ params:
           - day: Thursday
             time: 7:30 AM - 4:00 PM
           - day: Friday
-            time: By appointment only
+            time: Closed
           - day: Saturday
             time: Closed
           - day: Sunday
@@ -329,14 +329,14 @@ params:
         contact: /contact/contact-info
         book: /contact/contact-info
       - name: Martinsburg, WV
-        link: https://maps.app.goo.gl/tonQLWxhiScnff8HA
-        map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d97999.0299669069!2d-77.87457549332146!3d39.62490734758505!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9ecde818ba425%3A0x46a2db07a9ba5821!2sAssociated%20Oral%20%26%20Maxillofacial%20Surgeons!5e0!3m2!1sen!2s!4v1717250395008!5m2!1sen!2s
+        link: https://maps.app.goo.gl/CibMJRciDeKiBMDz7
+        map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d98552.91230761546!2d-78.1130264!3d39.4743322!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ca0254ae853e45%3A0x7523d7ffdbf9997!2sAssociated%20Oral%20%26%20Maxillofacial%20Surgeons!5e0!3m2!1sen!2s!4v1725366364286!5m2!1sen!2s
         address: 1007 Sushruta Dr, Martinsburg, WV 25401
         phone: (304) 263-0991
         email: xraywv@omaxdocs.com
         timings:
           - day: Monday
-            time: By appointment only
+            time: Closed
           - day: Tuesday
             time: 7:00 AM - 3:00 PM
           - day: Wednesday
