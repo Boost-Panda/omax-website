@@ -16,7 +16,7 @@ Dental implants are advanced restorative solutions that replace missing teeth by
 
 - **All-on-4/All-on-6 Implants**: All-on-4 and All-on-6 implants are innovative solutions for patients missing all or most of their teeth in one or both dental arches. These implant-supported prostheses use a strategic placement of four or six dental implants to support an entire arch of teeth (either fixed or removable). All-on-4/All-on-6 implants offer immediate function and aesthetics, allowing patients to regain their smile and chewing ability in a single appointment.
 
-- **Mini Implants**: Mini implants are smaller in diameter than traditional implants and are often used in cases where there is limited bone volume or for stabilizing removable dentures. These implants require less invasive surgery and quicker recovery than standard implants. Mini implants can be an excellent option for patients with thin or narrow jawbones who may not be candidates for traditional implant placement.
+- **Mini Implants**: Mini implants are smaller in diameter than traditional implants and are often used in cases where there is limited bone volume or for stabilizing removable dentures. These implants require less invasive surgery and a quicker recovery than standard implants. Mini implants can be an excellent option for patients with thin or narrow jawbones who may not be candidates for traditional implant placement.
 
 ## The Procedure of Dental Implants
 
@@ -28,7 +28,7 @@ Dental implants are advanced restorative solutions that replace missing teeth by
 **Surgical Placement of Implants:**
 
 - If the jawbone lacks sufficient density or volume to support dental implants, [bone grafting](/services/bone-grafting) or augmentation procedures may be necessary to build up the bone. This step ensures a strong foundation for the implants and enhances treatment success.
-- During the surgical procedure we makes an incision in the gum tissue to expose the underlying jawbone. The implant posts are strategically placed into the jawbone at predetermined locations using precision instruments. The number and placement of implants depend on the patient's treatment plan.
+- During the surgical procedure we make an incision in the gum tissue to expose the underlying jawbone. The implant posts are strategically placed into the jawbone at predetermined locations using precision instruments. The number and placement of implants depend on the patient's treatment plan.
 - After implant placement, the gums are closed, and a temporary restoration may be placed over the implants to protect them during the healing process. Over the next few months, osseointegration occurs, during which the implants fuse with the surrounding bone tissue, providing stability and support.
 
 **Abutment Placement and Restoration:**

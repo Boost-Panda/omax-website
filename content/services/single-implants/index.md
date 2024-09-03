@@ -4,7 +4,7 @@ include_footer: true # or false to display the footer
 draft: false
 ---
 
-A single dental implant is a modern dental solution designed to replace an individual missing tooth. It involves the surgical insertion of a titanium post into the jawbone, which acts as a replacement for the tooth root. This post is topped with an abutment, which connects the implant to a custom-made crown that mimics the appearance and function of a natural tooth. The benefits of a single dental implant are extensive: it provides a natural look and feel, restores full chewing power, and enhances speech. Additionally, it preserves jawbone health by preventing bone loss, maintains the integrity of adjacent teeth without alteration, and offers a durable, long-lasting solution with proper care. This comprehensive restoration improves oral functionality and enhances the smile's aesthetics, contributing to overall confidence and well-being. 
+A single dental implant is a modern dental solution designed to replace an individual missing tooth. It involves the surgical insertion of a titanium post into the jawbone, which acts as a replacement for the tooth root. This post is topped with an abutment, which connects the implant to a custom-made crown that mimics the appearance and function of a natural tooth. The benefits of a single dental implant are extensive: it provides a natural look and feel, restores full chewing power, and enhances speech. Additionally, it preserves jawbone health by preventing bone loss, maintains the integrity of adjacent teeth without alteration, and offers a durable, long-lasting solution with proper care. This comprehensive restoration improves oral functionality and enhances your smile's aesthetics, contributing to overall confidence and well-being. 
 
 ## The Single Dental Implant Procedure
 
@@ -33,7 +33,7 @@ A single dental implant is a modern dental solution designed to replace an indiv
 ## Caring for Your Single Dental Implant
 
 - Brush and floss regularly, paying special attention to the area around the implant. 
-- Visit our dentist at Associated Oral & Maxillofacial Surgeons for routine cleanings and examinations to monitor your implant's and surrounding teeth' health. 
+- Visit our dentist at Associated Oral & Maxillofacial Surgeons for routine cleanings and examinations to monitor your implant's and surrounding teeth's health. 
 - Avoid smoking and limit consumption of foods and beverages that can stain your teeth, such as coffee and red wine. 
 
 ---

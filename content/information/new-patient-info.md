@@ -10,7 +10,7 @@ In some cases, if suitable, surgery may be performed on the same day as the cons
 
 ## What To Bring To Your Appointment
 
-Please provide us the following information at the time of your consultation:
+Please provide us with the following information at the time of your consultation:
 
 - **Surgical referral slip and any X-rays**: It is essential to bring your surgical referral slip along with any relevant X-rays or imaging reports to provide our team with a comprehensive understanding of your medical history. These documents serve as crucial references for our specialists, enabling them to accurately assess your condition and plan the best course of action for you.
 - **List of medications you are presently taking**: To ensure the highest level of care, it is imperative that you share a detailed list of all the medications you are currently taking during your consultation. This includes prescription drugs, over-the-counter medicines, vitamins, and supplements. By having this information readily available, we can evaluate potential drug interactions or side effects that may impact the success of your treatment.
@@ -21,16 +21,16 @@ Please provide us the following information at the time of your consultation:
 
 ## Other Important Instructions
 
-A preoperative consultation and physical examination are compulsory for patients who are undergoing IV anesthesia for surgery. This crucial step ensures the safety and well-being of each patient throughout their surgical journey. In order to optimize your experience, it is imperative that you adhere to specific guidelines provided by our medical team. 
+A preoperative consultation and physical examination are compulsory for patients who are undergoing IV anesthesia for surgery. This crucial step ensures the safety and well-being of each patient throughout their surgical journey. In order to optimize your experience, it is imperative that you adhere to specific guidelines provided by our medical team.
 
-- Firstly, please abstain from consuming any food or beverages for a minimum of eight hours prior to your scheduled surgery. This fasting period helps prevent potential complications during anesthesia administration, as an empty stomach reduces the risk of aspiration into the lungs. 
-- Additionally, we kindly request that you arrange for an adult companion who can drive you home following the procedure since certain effects of anesthesia may impair your ability to operate a vehicle safely. 
-- It is vital that we are aware of any underlying medical conditions such as diabetes, high blood pressure, artificial heart valves or joints, and rheumatic fever, among others, which could significantly affect your treatment plan or recovery process. 
+- Firstly, please abstain from consuming any food or beverages for a minimum of eight hours prior to your scheduled surgery. This fasting period helps prevent potential complications during anesthesia administration, as an empty stomach reduces the risk of aspiration into the lungs.
+- Additionally, we kindly request that you arrange for an adult companion who can drive you home following the procedure since certain effects of anesthesia may impair your ability to operate a vehicle safely.
+- It is vital that we are aware of any underlying medical conditions such as diabetes, high blood pressure, artificial heart valves or joints, and rheumatic fever, among others, which could significantly affect your treatment plan or recovery process.
 - Similarly important is disclosing all medications you are currently taking, including heart medications, aspirin regimens, or anticoagulant therapies. This information enables us to tailor your anesthesia accordingly and minimize any potential risks associated with drug interactions or adverse reactions. Your safety and comfort remain our utmost priority throughout this entire process.
 
 ## X-Rays
 
-If your dentist or physician has taken X-rays, you may kindly request that they promptly forward them to our office. We understand the value of time and efficiency, but in the event that immediate transfer is not feasible, we would greatly appreciate it if you could personally pick up the X-rays and bring them to our facility at your earliest convenience.
+If your dentist or physician has taken X-rays, please request that they promptly forward them to our office. We understand the value of time and efficiency, but in the event that immediate transfer is not feasible, we would greatly appreciate it if you could personally pick up the X-rays and bring them to our facility at your earliest convenience.
 
 Our team recognizes the significance of having all relevant information readily available for accurate diagnosis and treatment planning. Should further imaging be deemed necessary, rest assured that our state-of-the-art facility can cater to those needs professionally and efficiently.
 

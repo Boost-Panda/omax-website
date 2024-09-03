@@ -25,4 +25,4 @@ Dr. Nelson practices a full range of oral and maxillofacial surgery with a keen 
 - Endosseous implants
 - Facial trauma
 - Facial reconstruction
-- Dentoalveolar procedures.
+- Dentoalveolar procedures

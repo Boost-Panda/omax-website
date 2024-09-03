@@ -6,7 +6,7 @@ include_footer: true # or false to display the footer
 draft: false
 ---
 
-You may preregister with our office by utilizing the convenience of our secure online Patient Registration Form. This user-friendly form ensures your data remains safeguarded throughout the process. Once you have diligently filled out all necessary fields, kindly press the Submit button positioned at the bottom to seamlessly share your information with us.
+You may pre-register with our office by utilizing the convenience of our secure online Patient Registration Form. This user-friendly form ensures your data remains safeguarded throughout the process. Once you have diligently filled out all necessary fields, kindly press the Submit button positioned at the bottom to seamlessly share your information with us.
 
 Rest assured that upon your first visit to our office, we will already have your completed form readily available for your signature, saving you valuable time and effort. At our practice, we prioritize protecting the security and privacy of every patient's personal data as if it were our own. Hence, we have implemented stringent measures to ensure its complete confidentiality.
 

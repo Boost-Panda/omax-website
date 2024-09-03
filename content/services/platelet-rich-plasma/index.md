@@ -18,7 +18,7 @@ It's important to note that not all patients may be suitable candidates for PRP 
 
 PRP allows the body to utilize its natural healing processes at an accelerated pace. This involves a rush of various cells to the wound, including platelets. These platelets have multiple functions, such as forming blood clots and releasing growth factors (GF) into the site.
 
-These GFs (platelet-derived growth factors PGDF, transforming growth factor beta TGF, and insulin-like growth factor ILGF) aid in repairing the body by stimulating stem cells to generate new tissue. The greater the amount of growth factors sequestered in the wound, the more stimulated stem cells will be to produce new host tissue. PRP enables faster and more effective healing for the body.
+These GFs (platelet-derived growth factors PDGF, transforming growth factor beta TGF, and insulin-like growth factor ILGF) aid in repairing the body by stimulating stem cells to generate new tissue. The greater the amount of growth factors sequestered in the wound, the more stimulated stem cells will be to produce new host tissue. PRP enables faster and more effective healing for the body.
 
 Bone morphogenetic protein (BMP) is a subfamily of TGF. Research studies in animals and humans have demonstrated the ability of BMP to stimulate bone growth. This is of great importance to dental implant surgeons. Now, implant surgeons are able to grow bone more predictably and more rapidly by adding PRP and BMP to the implant site with bone substitute particles.
 

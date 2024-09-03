@@ -53,7 +53,7 @@ Detailed post-operative instructions will be provided to facilitate a comfortabl
 ## Wisdom Teeth FAQs
 
 1. **When Should I Consider Getting My Wisdom Teeth Removed?**
-It is generally recommended to undergo a thorough examination by an oral surgeon during your late teens or early twenties when the roots of these molars are still developing, but before they cause significant problems.
+It is generally recommended to undergo a thorough examination by an oral surgeon during your late teens or early twenties, when the roots of these molars are still developing, but before they cause significant problems.
 
 1. **Is Wisdom Tooth Extraction Painful?**
 The procedure itself is typically performed under anesthesia, so you won't feel any pain during the extraction. However, some discomfort and swelling can be expected afterward, which can be managed with medication prescribed by the oral surgeon.
