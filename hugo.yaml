@@ -25,6 +25,9 @@ params:
   description:
   # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
   # preloader: false
+  frederickPhone: (301) 450-6717
+  hagerstownPhone: (301) 507-0064
+  martinsburgPhone: (304) 577-5063
   navbarlogo:
     # Logo (from static/images/logos/___)
     image: logos/omax.webp
