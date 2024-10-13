@@ -53,7 +53,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WE AND/OR A
 
 ## Copyright and Trademark Notices
 
-All contents of this Web Site are Copyright Â© GrowthPlug Inc. and/or its suppliers. All rights reserved.
+All contents of this Web Site are Copyright © Associated Oral and Maxillofacial Surgeons. All rights reserved.
 
 ## Trademarks
 
